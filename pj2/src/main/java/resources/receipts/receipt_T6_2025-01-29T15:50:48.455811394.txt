@@ -1,0 +1,14 @@
+RECEIPT
+User ID: K4
+Personal ID: ID-268080
+Driver License: DL-996857
+Vehicle ID: T6
+Start Location: 8,4
+Destination: 3,17
+Start Time: 2024-06-02T11:30
+End Time: 2024-06-02T14:30
+Price: 486.0
+Promotion Applied: no
+Fault Occurred: no
+
+Thank you for using our service!

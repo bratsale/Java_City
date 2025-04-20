@@ -1,0 +1,14 @@
+RECEIPT
+User ID: K4
+Personal ID: ID-184190
+Driver License: DL-275687
+Vehicle ID: A3
+Start Location: 14,18
+Destination: 12,2
+Start Time: 2024-06-02T09:30
+End Time: 2024-06-02T10:30
+Price: 270.0
+Promotion Applied: no
+Fault Occurred: no
+
+Thank you for using our service!

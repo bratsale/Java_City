@@ -1,0 +1,14 @@
+RECEIPT
+User ID: K4
+Personal ID: ID-792902
+Driver License: DL-66925
+Vehicle ID: T7
+Start Location: 16,19
+Destination: 3,14
+Start Time: 2024-06-02T09:30
+End Time: 2024-06-02T12:00
+Price: 60.75
+Promotion Applied: yes
+Fault Occurred: no
+
+Thank you for using our service!

@@ -1,0 +1,14 @@
+RECEIPT
+User ID: K1
+Personal ID: ID-422590
+Driver License: DL-541695
+Vehicle ID: B3
+Start Location: 16,4
+Destination: 16,19
+Start Time: 2024-06-03T10:00
+End Time: 2024-06-03T16:00
+Price: 648.0
+Promotion Applied: no
+Fault Occurred: no
+
+Thank you for using our service!

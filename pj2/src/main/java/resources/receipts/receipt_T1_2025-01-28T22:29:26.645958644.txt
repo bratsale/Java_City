@@ -1,0 +1,14 @@
+RECEIPT
+User ID: K2
+Personal ID: ID-679614
+Driver License: DL-849819
+Vehicle ID: T1
+Start Location: 8,5
+Destination: 9,15
+Start Time: 2024-06-01T11:30
+End Time: 2024-06-01T15:30
+Price: 648.0
+Promotion Applied: no
+Fault Occurred: no
+
+Thank you for using our service!

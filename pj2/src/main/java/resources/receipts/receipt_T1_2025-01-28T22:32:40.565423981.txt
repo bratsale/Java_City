@@ -1,0 +1,14 @@
+RECEIPT
+User ID: K1
+Personal ID: ID-567320
+Driver License: DL-732683
+Vehicle ID: T1
+Start Location: 0,0
+Destination: 7,8
+Start Time: 2024-06-01T09:00
+End Time: 2024-06-01T11:30
+Price: 60.75
+Promotion Applied: yes
+Fault Occurred: no
+
+Thank you for using our service!

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox alignment="CENTER" spacing="10.0" xmlns:fx="http://javafx.com/fxml" fx:controller="gui.FaultsController">
+    <!-- Naslov prozora -->
+    <Label text="List of Broken Vehicles:" style="-fx-font-size: 16px; -fx-font-weight: bold;"/>
+
+    <!-- Tabela za prikaz vozila -->
+    <TableView fx:id="faultsTable" prefHeight="400" prefWidth="600">
+        <columns>
+            <!-- Kolone za tip, ID, vreme i opis kvara -->
+            <TableColumn text="Type" fx:id="typeColumn" prefWidth="150"/>
+            <TableColumn text="ID" fx:id="idColumn" prefWidth="100"/>
+            <TableColumn text="Time" fx:id="timeColumn" prefWidth="200"/>
+            <TableColumn text="Description" fx:id="descriptionColumn" prefWidth="150"/>
+        </columns>
+    </TableView>
+</VBox>

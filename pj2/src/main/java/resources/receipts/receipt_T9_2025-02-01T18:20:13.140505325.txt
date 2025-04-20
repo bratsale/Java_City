@@ -1,0 +1,14 @@
+RECEIPT
+User ID: K4
+Personal ID: ID-40141
+Driver License: DL-299697
+Vehicle ID: T9
+Start Location: 14,17
+Destination: 11,9
+Start Time: 2024-06-03T11:30
+End Time: 2024-06-03T12:30
+Price: 162.0
+Promotion Applied: no
+Fault Occurred: no
+
+Thank you for using our service!

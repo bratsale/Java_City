@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.geometry.Pos?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox alignment="CENTER" spacing="20.0" xmlns:fx="http://javafx.com/fxml"
+      fx:controller="gui.MainController">
+    <padding>
+        <Insets bottom="20.0" left="20.0" right="20.0" top="20.0"/>
+    </padding>
+
+    <!-- Label za dobrodošlicu -->
+    <Label fx:id="welcomeText" text="Welcome to eMobility!" style="-fx-font-size: 18px; -fx-font-weight: bold;"/>
+
+    <!-- Dugme za pokretanje simulacije -->
+    <Button fx:id="startButton" text="START SIMULATION" onAction="#onStartSimulationClick"/>
+
+    <!-- HBox za dodatna tri dugmeta -->
+    <HBox spacing="15.0" alignment="CENTER">
+        <Button text="Vehicles" fx:id="vehiclesButton" onAction="#onVehiclesClick" style="-fx-min-width: 100px;"/>
+        <Button text="Faults" fx:id="faultsButton" onAction="#onFaultsClick" style="-fx-min-width: 100px;"/>
+    </HBox>
+
+    <VBox alignment="CENTER">
+        <HBox spacing="15.0" alignment="CENTER">
+        <Button text="Results" fx:id="resultsButton" onAction="#onResultsClick" style="-fx-min-width: 100px;"/>
+        <Button text="Top Earning Vehicles" fx:id="bestButton" onAction="#onBestClick" style="-fx-min-width: 100px;"/>
+        </HBox>
+    </VBox>
+
+    <!-- Kontejner za mrežu sa oznakama -->
+    <StackPane alignment="CENTER">
+        <!-- Glavni grid sa oznakama -->
+        <GridPane fx:id="gridWithLabels" visible="false" alignment="CENTER">
+            <padding>
+                <Insets top="10"/>
+            </padding>
+        </GridPane>
+    </StackPane>
+</VBox>

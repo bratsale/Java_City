@@ -1,0 +1,14 @@
+RECEIPT
+User ID: K4
+Personal ID: ID-109785
+Driver License: DL-478471
+Vehicle ID: T3
+Start Location: 2,2
+Destination: 12,19
+Start Time: 2024-06-02T09:30
+End Time: 2024-06-02T18:30
+Price: 1458.0
+Promotion Applied: no
+Fault Occurred: no
+
+Thank you for using our service!

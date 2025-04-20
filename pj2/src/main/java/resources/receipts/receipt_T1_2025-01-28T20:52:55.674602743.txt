@@ -1,0 +1,14 @@
+RECEIPT
+User ID: K3
+Personal ID: ID-64800
+Driver License: DL-803202
+Vehicle ID: T1
+Start Location: 9,12
+Destination: 16,2
+Start Time: 2024-06-03T13:00
+End Time: 2024-06-03T17:30
+Price: 109.35
+Promotion Applied: yes
+Fault Occurred: no
+
+Thank you for using our service!

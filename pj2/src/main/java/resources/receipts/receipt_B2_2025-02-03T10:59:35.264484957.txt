@@ -1,0 +1,14 @@
+RECEIPT
+User ID: K3
+Personal ID: ID-935715
+Driver License: DL-439737
+Vehicle ID: B2
+Start Location: 7,8
+Destination: 12,2
+Start Time: 2024-06-02T13:00
+End Time: 2024-06-02T18:00
+Price: 540.0
+Promotion Applied: no
+Fault Occurred: no
+
+Thank you for using our service!

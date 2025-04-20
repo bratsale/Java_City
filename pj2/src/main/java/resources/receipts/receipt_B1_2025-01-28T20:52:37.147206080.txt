@@ -1,0 +1,14 @@
+RECEIPT
+User ID: K2
+Personal ID: ID-50177
+Driver License: DL-802222
+Vehicle ID: B1
+Start Location: 2,1
+Destination: 7,13
+Start Time: 2024-06-01T09:00
+End Time: 2024-06-01T11:00
+Price: 0.0
+Promotion Applied: yes
+Fault Occurred: yes
+
+Thank you for using our service!

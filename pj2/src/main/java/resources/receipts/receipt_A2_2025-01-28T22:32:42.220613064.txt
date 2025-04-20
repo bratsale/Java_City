@@ -1,0 +1,14 @@
+RECEIPT
+User ID: K2
+Personal ID: ID-721591
+Driver License: DL-739367
+Vehicle ID: A2
+Start Location: 7,9
+Destination: 16,1
+Start Time: 2024-06-03T09:30
+End Time: 2024-06-03T12:30
+Price: 121.5
+Promotion Applied: yes
+Fault Occurred: no
+
+Thank you for using our service!

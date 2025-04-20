@@ -1,0 +1,14 @@
+RECEIPT
+User ID: K1
+Personal ID: ID-547911
+Driver License: DL-31672
+Vehicle ID: T5
+Start Location: 1,9
+Destination: 9,15
+Start Time: 2024-06-01T11:30
+End Time: 2024-06-01T14:00
+Price: 405.0
+Promotion Applied: no
+Fault Occurred: no
+
+Thank you for using our service!

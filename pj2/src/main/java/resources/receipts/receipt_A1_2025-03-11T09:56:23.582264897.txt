@@ -1,0 +1,14 @@
+RECEIPT
+User ID: K4
+Personal ID: ID-894016
+Driver License: DL-94940
+Vehicle ID: A1
+Start Location: 16,19
+Destination: 16,4
+Start Time: 2024-06-03T09:00
+End Time: 2024-06-03T14:30
+Price: 1485.0
+Promotion Applied: no
+Fault Occurred: no
+
+Thank you for using our service!

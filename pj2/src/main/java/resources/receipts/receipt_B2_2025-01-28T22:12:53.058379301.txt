@@ -1,0 +1,14 @@
+RECEIPT
+User ID: K2
+Personal ID: ID-49684
+Driver License: DL-271904
+Vehicle ID: B2
+Start Location: 2,11
+Destination: 3,16
+Start Time: 2024-06-02T10:00
+End Time: 2024-06-02T17:00
+Price: 756.0
+Promotion Applied: no
+Fault Occurred: no
+
+Thank you for using our service!

@@ -1,0 +1,14 @@
+RECEIPT
+User ID: K5
+Personal ID: ID-49172
+Driver License: DL-146490
+Vehicle ID: T2
+Start Location: 1,1
+Destination: 11,6
+Start Time: 2024-06-03T09:30
+End Time: 2024-06-03T18:00
+Price: 1377.0
+Promotion Applied: no
+Fault Occurred: no
+
+Thank you for using our service!

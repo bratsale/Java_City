@@ -1,0 +1,14 @@
+RECEIPT
+User ID: K2
+Personal ID: ID-542694
+Driver License: DL-967494
+Vehicle ID: A3
+Start Location: 15,15
+Destination: 17,17
+Start Time: 2024-06-01T09:30
+End Time: 2024-06-01T13:30
+Price: 1080.0
+Promotion Applied: no
+Fault Occurred: no
+
+Thank you for using our service!

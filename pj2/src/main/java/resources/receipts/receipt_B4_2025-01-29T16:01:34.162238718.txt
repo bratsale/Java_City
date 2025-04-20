@@ -1,0 +1,14 @@
+RECEIPT
+User ID: K5
+Personal ID: ID-565195
+Driver License: DL-579395
+Vehicle ID: B4
+Start Location: 14,19
+Destination: 16,2
+Start Time: 2024-06-03T11:30
+End Time: 2024-06-03T15:00
+Price: 378.0
+Promotion Applied: no
+Fault Occurred: no
+
+Thank you for using our service!

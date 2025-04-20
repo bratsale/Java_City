@@ -1,0 +1,14 @@
+RECEIPT
+User ID: K1
+Personal ID: ID-854661
+Driver License: DL-180401
+Vehicle ID: A1
+Start Location: 5,5
+Destination: 11,5
+Start Time: 2024-06-03T09:00
+End Time: 2024-06-03T13:00
+Price: 720.0
+Promotion Applied: no
+Fault Occurred: no
+
+Thank you for using our service!

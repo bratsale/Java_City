@@ -1,0 +1,14 @@
+RECEIPT
+User ID: K4
+Personal ID: ID-716396
+Driver License: DL-561386
+Vehicle ID: T1
+Start Location: 11,4
+Destination: 16,2
+Start Time: 2024-06-03T11:30
+End Time: 2024-06-03T14:00
+Price: 405.0
+Promotion Applied: no
+Fault Occurred: no
+
+Thank you for using our service!

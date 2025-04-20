@@ -1,0 +1,14 @@
+RECEIPT
+User ID: K3
+Personal ID: ID-31660
+Driver License: DL-277849
+Vehicle ID: T7
+Start Location: 18,5
+Destination: 3,11
+Start Time: 2024-06-02T10:00
+End Time: 2024-06-02T18:00
+Price: 1296.0
+Promotion Applied: no
+Fault Occurred: no
+
+Thank you for using our service!

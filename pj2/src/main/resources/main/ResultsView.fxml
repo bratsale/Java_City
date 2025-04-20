@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Tab?>
+<?import javafx.scene.control.TabPane?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.VBox?>
+
+<TabPane xmlns:fx="http://javafx.com/fxml"
+         fx:controller="gui.ResultsController">
+    <!-- Daily Report Tab -->
+    <Tab text="Daily Report" closable="false">
+        <VBox alignment="CENTER" spacing="10.0">
+            <TableView fx:id="dailyReportTable">
+                <TableColumn fx:id="dateColumn" text="Date" />
+                <TableColumn fx:id="totalRevenueColumn" text="Total Revenue" />
+                <TableColumn fx:id="totalDiscountColumn" text="Total Discount" />
+                <TableColumn fx:id="totalPromotionsColumn" text="Total Promotions" />
+                <TableColumn fx:id="narrowCityRidesColumn" text="Narrow City Rides" />
+                <TableColumn fx:id="wideCityRidesColumn" text="Wide City Rides" />
+                <TableColumn fx:id="maintenanceCostColumn" text="Maintenance Cost" />
+                <TableColumn fx:id="repairCostColumn" text="Repair Cost" />
+            </TableView>
+        </VBox>
+    </Tab>
+
+    <!-- Summary Report Tab -->
+    <Tab text="Summary Report" closable="false">
+        <VBox alignment="CENTER" spacing="10.0">
+            <TableView fx:id="summaryReportTable">
+                <TableColumn fx:id="summaryTotalRevenueColumn" text="Total Revenue" />
+                <TableColumn fx:id="summaryTotalDiscountColumn" text="Total Discount" />
+                <TableColumn fx:id="summaryTotalPromotionsColumn" text="Total Promotions" />
+                <TableColumn fx:id="summaryNarrowCityRidesColumn" text="Narrow City Rides" />
+                <TableColumn fx:id="summaryWideCityRidesColumn" text="Wide City Rides" />
+                <TableColumn fx:id="summaryMaintenanceCostColumn" text="Maintenance Cost" />
+                <TableColumn fx:id="summaryRepairCostColumn" text="Repair Cost" />
+                <TableColumn fx:id="companyCostsColumn" text="Company Costs" />
+                <TableColumn fx:id="totalTaxColumn" text="Total Tax" />
+            </TableView>
+        </VBox>
+    </Tab>
+</TabPane>

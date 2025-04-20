@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<BorderPane xmlns:fx="http://javafx.com/fxml" fx:controller="gui.VehiclesController">
+    <!-- Gornji deo prozora sa naslovom -->
+    <top>
+        <Label text="Vehicle Management" style="-fx-font-size: 18; -fx-padding: 10;" />
+    </top>
+
+    <!-- Središnji deo sa TabPane -->
+    <center>
+        <TabPane fx:id="vehicleTabPane" tabClosingPolicy="UNAVAILABLE">
+            <!-- Tab za automobile -->
+            <Tab text="Cars">
+                <AnchorPane>
+                    <TableView fx:id="carTable" layoutX="10.0" layoutY="10.0" AnchorPane.topAnchor="0.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0">
+                        <columns>
+                            <TableColumn fx:id="carIdColumn" text="ID" />
+                            <TableColumn fx:id="carManufacturerColumn" text="Manufacturer" />
+                            <TableColumn fx:id="carModelColumn" text="Model" />
+                            <TableColumn fx:id="carPriceColumn" text="Price" />
+                            <TableColumn fx:id="carDescriptionColumn" text="Description" />
+                            <TableColumn fx:id="carPurchaseDateColumn" text="Purchase Date" />
+                            <TableColumn fx:id="carBatteryColumn" text="Battery %" />
+
+                        </columns>
+                    </TableView>
+                </AnchorPane>
+            </Tab>
+
+            <!-- Tab za bicikle -->
+            <Tab text="Bikes">
+                <AnchorPane>
+                    <TableView fx:id="bikeTable" layoutX="10.0" layoutY="10.0" AnchorPane.topAnchor="0.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0">
+                        <columns>
+                            <TableColumn fx:id="bikeIdColumn" text="ID" />
+                            <TableColumn fx:id="bikeManufacturerColumn" text="Manufacturer" />
+                            <TableColumn fx:id="bikeModelColumn" text="Model" />
+                            <TableColumn fx:id="bikePriceColumn" text="Price" />
+                            <TableColumn fx:id="bikeRangeColumn" text="Range Per Charge" />
+                            <TableColumn fx:id="bikeBatteryColumn" text="Battery %" />
+
+                        </columns>
+                    </TableView>
+                </AnchorPane>
+            </Tab>
+
+            <!-- Tab za trotinete -->
+            <Tab text="Scooters">
+                <AnchorPane>
+                    <TableView fx:id="scooterTable" layoutX="10.0" layoutY="10.0" AnchorPane.topAnchor="0.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0">
+                        <columns>
+                            <TableColumn fx:id="scooterIdColumn" text="ID" />
+                            <TableColumn fx:id="scooterManufacturerColumn" text="Manufacturer" />
+                            <TableColumn fx:id="scooterModelColumn" text="Model" />
+                            <TableColumn fx:id="scooterPriceColumn" text="Price" />
+                            <TableColumn fx:id="scooterSpeedColumn" text="Max Speed" />
+                            <TableColumn fx:id="scooterBatteryColumn" text="Battery %" />
+
+                        </columns>
+                    </TableView>
+                </AnchorPane>
+            </Tab>
+        </TabPane>
+    </center>
+    <bottom>
+        <Button text="Refresh Vehicles" onAction="#onVehiclesButtonClick" />
+    </bottom>
+</BorderPane>
